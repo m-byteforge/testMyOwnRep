@@ -1,3 +1,5 @@
+import chalk from 'chalk';
+
 const joke = chalk.red('Why') + ' ' +
              chalk.yellow('did') + ' ' +
              chalk.green('the') + ' ' +
